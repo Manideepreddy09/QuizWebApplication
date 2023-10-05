@@ -1,0 +1,29 @@
+/*.login{
+    padding-top: 10px;
+    text-align: center;
+    margin:auto;
+    width:40%;
+    font-weight: bold;
+}
+
+
+*/
+.login{
+    background-color:#F4DEFF;
+}
+.btn-info:hover {
+    color: #FFF;
+    background: rgba(91, 192, 222, 0.75);
+    border: 2px solid rgba(91, 192, 222, 0.75);
+  }
+  .btn-info {
+    font-family: Raleway-SemiBold;
+    font-size: 15px;
+    color: rgba(91, 192, 222, 0.75);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(91, 192, 222, 0.75);
+    border-radius: 40px;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+  }

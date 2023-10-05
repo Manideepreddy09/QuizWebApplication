@@ -1,0 +1,29 @@
+/* Add this CSS in your CSS file or component styles
+input[type="radio"]:focus{
+  appearance:;
+  background-color: greenyellow;
+  margin: 0;
+  font: inherit;
+  color: currentColor;
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+  transform: translateY(-0.075em);
+/* Change to your desired blue color */
+
+  input[type="radio"] {
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid white;
+    border-radius: 50%;
+    background-clip: content-box;
+    padding: 3px;
+  }
+  input[type="radio"]:focus {
+    background-color: white;
+  }
+/* .grid.pbtn{
+    margin-left: 10 rem;
+} */

@@ -1,0 +1,67 @@
+[
+{
+    "id":1,
+    "question":"Identify the incorrect constructor type?",
+    "options":["Friend constructor","Default constructor","Parameterized constructor","Copy constructor"]
+
+  },
+  {
+    "id":2,
+    "question":"C++ uses which approach?",
+    "options":["right-left","Top-Down","left-right","Bottom-up"]
+
+  },
+  {
+    "id":3,
+    "question":"Choose the correct default return value of function?",
+    "options": ["void","int","float","char"]
+
+  },
+  {
+    "id":4,
+    "question":"Identify the logical AND operator.",
+    "options": ["||","&&","|","!"]
+
+  }
+  ,
+  {
+    "id":5,
+    "question":"Choose the type of loop which is guaranteed to execute at-least once?",
+    "options": ["for loop","do-while","while","char"]
+
+  }
+  ,
+  {
+    "id":6,
+    "question":"Total types of constructors in C++ are?",
+    "options": [1,2,3,4]
+
+  },
+  {
+    "id":7,
+    "question":"Under which pillar of OOPS does base class and derived class relationship come?",
+    "options": ["Polymorphism","Inheritance","Abstraction","Encapsulation"]
+
+  },
+  {
+    "id":8,
+    "question":"C++ is a __________ programming language.",
+    "options": ["general-purpose",
+    "procedural and functional",
+    "object-oriented, generic, and modular",
+   " All the above"]
+
+  },
+  {
+    "id":9,
+    "question":" What is the correct value to return to the operating system upon the successful completion of a program ?",
+    "options": ["1","-1","0","None of the above"]
+
+  },
+  {
+    "id":10,
+    "question":" Which of the following is used for comments in C++?",
+    "options": ["/* comment */","// comment */","// comment","both // comment or /* comment */"]
+
+  }
+]

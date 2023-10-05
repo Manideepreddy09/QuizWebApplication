@@ -1,0 +1,91 @@
+[
+    {
+        "id":1,
+        "question":"Number of primitive data types in Java are?",
+        "options":[6,7,8,9]
+    
+      },
+      {
+        "id":2,
+        "question":"_____ is used to find and fix bugs in the Java programs.",
+        "options":["JVM","JRE","JDK","JDB"]
+    
+      },
+      {
+        "id":3,
+        "question":"Evaluate the following Java expression, if x=3, y=5, and z=10: ++z + y - y + z + x++",
+        "options": [24,23,20,25]
+    
+      },
+      {
+        "id": 4,
+        "question": "Who invented Java Programming?",
+        "options": ["Guido van Rossum", "James Gosling", "Dennis Ritchie", "Bjarne Stroustrup"]
+    },
+    {
+      "id": 5,
+      "question": "Which statement is true about Java?",
+      "options": [
+          "Java is a sequence-dependent programming language",
+          "Java is a code dependent programming language",
+          "Java is a platform-dependent programming language",
+          "Java is a platform-independent programming language"
+      ]
+  }
+  ,
+  {
+    "id": 6,
+    "question": "Which one of the following is not a Java feature?",
+    "options": [
+        "Object-oriented",
+        "Use of pointers",
+        "Portable",
+        "Dynamic and Extensible"
+    ]
+}
+,
+{
+  "id": 7,
+  "question": "What is the extension of java code files?",
+  "options": [
+      ".js",
+      ".txt",
+      ".class",
+      ".java"
+  ]
+}
+,
+{
+  "id": 8,
+  "question": "Which of the following is not an OOPS concept in Java?",
+  "options": [
+      "Polymorphism",
+      "Inheritance",
+      "Compilation",
+      "Encapsulation"
+  ]
+}
+,
+{
+  "id": 9,
+  "question": "What is not the use of “this” keyword in Java?",
+  "options": [
+      "Referring to the instance variable when a local variable has the same name",
+      "Passing itself to the method of the same class",
+      "Passing itself to another method",
+      "Calling another constructor in constructor chaining"
+  ]
+}
+,
+{
+  "id": 10,
+  "question": "Which of the following is a superclass of every class in Java?",
+  "options": [
+      "ArrayList",
+      "Abstract class",
+      "Object class",
+      "String"
+  ]
+}
+
+    ]
